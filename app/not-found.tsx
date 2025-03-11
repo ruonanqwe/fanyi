@@ -1,8 +1,8 @@
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import { Home } from "lucide-react"
-import Navbar from "@/components/zh/navbar"
-import Footer from "@/components/zh/footer"
+import Navbar from "@/components/navbar"
+import Footer from "@/components/footer"
 
 export default function NotFound() {
   return (
