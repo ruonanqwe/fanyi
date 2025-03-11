@@ -1,8 +1,8 @@
 import { Button } from "@/components/ui/button"
 import Link from "next/link"
 import Image from "next/image"
-import Navbar from "@/components/zh/navbar"
-import Footer from "@/components/zh/footer"
+import Navbar from "@/components/navbar"
+import Footer from "@/components/footer"
 import { ArrowRight, CheckCircle, Users, Award, Globe, Lightbulb, Target, Heart } from "lucide-react"
 
 export default function AboutPage() {
