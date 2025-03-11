@@ -10,8 +10,8 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 import { Checkbox } from "@/components/ui/checkbox"
 import { Mail, Phone, MapPin, Clock, Send } from "lucide-react"
 import Link from "next/link"
-import Navbar from "@/components/zh/navbar"
-import Footer from "@/components/zh/footer"
+import Navbar from "@/components/navbar"
+import Footer from "@/components/footer"
 
 export default function ContactPage() {
   const [name, setName] = useState("")
